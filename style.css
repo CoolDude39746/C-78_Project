@@ -1,0 +1,21 @@
+body{
+    color: white;
+    font-family: "ink free";
+    background: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    color: white;
+    background-color: red;
+}
+
+.Name_Of_Objects,#Object_Name{
+    color: greenyellow;
+}
+
+#Camera{
+    width: 360px;
+    height: 310px;
+}
